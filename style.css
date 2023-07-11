@@ -279,6 +279,8 @@ header{
     border: none;
     border-radius: 8px;
     margin-right: 16px;
+    font-size: 22px;
+    text-align: left;
 }
 /* get the latest deals code end here */
 
@@ -314,3 +316,4 @@ header{
     color: #E55473;
 }
 /* footer section code end here */
+
