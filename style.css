@@ -230,3 +230,37 @@ header{
     border-radius: 8px;
     margin-right: 16px;
 }
+/* get the latest deals code end here */
+
+/* footer section code start here */
+
+.footer-container{
+    background-color: #111010;
+    color: white;
+    padding-bottom: 130px;
+}
+.footer-container > h1{
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 24px;
+}
+.footer-container > p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 32px;
+}
+.copyright-notice{
+    text-align: center;
+}
+.copyright-notice > small{
+    color: rgba(255, 255, 255, 0.40);
+}
+.footer-container > h1 > span{
+    color: #E55473;
+}
+/* footer section code end here */
